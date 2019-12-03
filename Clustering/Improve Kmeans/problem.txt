@@ -1,0 +1,1 @@
+_Why Kmeans++ have to init the centers with probability at random ,instead take a furthest point as center?
